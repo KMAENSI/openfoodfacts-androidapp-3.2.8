@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For fr, Replace by https://world-fr.openproductsfacts.org/ -->
+    <string name="website">https://world.openfoodfacts.org/</string>
+    <!-- For fr, Replace by https://world-fr.openproductsfacts.org/contribuer -->
+    <string name="website_contribute">https://world.openfoodfacts.org/contribute</string>
+    <!-- For fr, Replace by https://world-fr.openproductsdfacts.org/decouvrir -->
+    <string name="website_discover">https://world.openfoodfacts.org/discover</string>
+    <!-- For fr, Replace by https://world-fr.openproductsfacts.org/produit/ -->
+    <string name="website_product">https://world.openfoodfacts.org/product/</string>
+    <!-- For fr, Replace by https://world-fr.openproductsfacts.org/contributeur/ -->
+    <string name="website_contributor">https://world.openfoodfacts.org/contributor/</string>
+    <string name="terms_url">https://world.openproductsfacts.org/terms-of-use&amp;hl=nl</string>
+    <string name="txtHomeOnline">Open Products Facts is an open database of more than %1$d products (plus the ones you will contribute) in the world.</string>
+    <string name="txtHome">Open Food Facts is een open database van voedingsproducten met ingrediënten, allergenen, voedingsinformatie en alle informatie die we kunnen vinden op de etiketten van de producten.</string>
+    <string name="slide_1_title">Draag bij aan de inzichtelijkheid van de productketen</string>
+    <string name="slide_1_desc">Scan products, take them in picture, make food transparency happen</string>
+    <string name="slide_2_title">Ken de feiten</string>
+    <string name="slide_2_desc">Uitgebreide informatie overt gescande producten, ontcijferd voor jou</string>
+    <string name="slide_3_title">Blijf op de hoogte van het product dat je gebruikt</string>
+    <string name="slide_3_desc">Alle producten die je gebruikt, in een handige exporteerbare lijst</string>
+    <string name="slide_4_title">Werkt offline</string>
+    <string name="slide_4_desc">Je kan nieuwe producten toevoegen, zelfs als je nu geen internetverbinding hebt</string>
+    <string name="txtDialogsContent">Het gescande product bestaat nog niet in Open Products Facts. Voeg deze toe.</string>
+    <string name="txtDialogsContentPowerMode">Het gescande product bestaat al in Open Products Facts.</string>
+    <string name="msg_share">Bekijk dit product op Open Products Facts:</string>
+    <string name="not_support_books">Boeken worden nog niet ondersteund door Open Products Facts</string>
+    <string name="txt_broaden_search">- zoekopdracht uitbreiden \n-scan een product en voeg het toe aan Open Products Facts</string>
+    <string name="Donation">Klik hier om te doneren aan Open Products Facts</string>
+    <string name="translate_help_title">Help met het vertalen van Open Products Facts</string>
+    <string name="translate_help_summary">Maak de Open Products Facts database in jouw taal beschikbaar - geen technische kennis vereist</string>
+    <string name="text_offline_info_dialog">Scan producten ook als je offline bent, om ze later aan Open Products Facts toe te voegen. De gescande producten verschijnen hier en je kan ze verzenden via de onderstaande knop.</string>
+    <string name="warning_alert_data"></string>
+    <!-- OPF tagline in different languages -->
+    <string name="tagline">de open producten-database</string>
+    <string name="product_not_found">Het door jou gescande product %1$s, bestaat nog niet. Wil je het toevoegen?</string>
+    <string name="currently_on_version">Momenteel op Open Products Facts</string>
+    <string name="category_game_btn">Help producten te categoriseren</string>
+    <!-- TODO add true support instead of overriding strings -->
+    <string name="add_nutrient_prompt_text">Add more details to help complete the product</string>
+    <string name="add_category_prompt_text">Add a category to help complete the product</string>
+    <string name="add_nutrient_category_prompt_text">Add a category and more details to help complete the product</string>
+</resources>
